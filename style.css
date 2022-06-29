@@ -1,0 +1,39 @@
+*{
+	font-family: "DejaVu Sans" sans-serif;
+	background-color: #041e17;
+}
+
+img{
+	height: auto;
+	width: 500px;
+}
+
+#title{
+	color: #daa520;
+	font-weight: italic;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:link{
+	color: red;
+}
+
+a:visited{
+	color: #20daa5;
+}
+
+a:hover{
+	color: hotpink;
+}
+
+a:active{
+	color: #daa520;
+}
+
+#gold{
+	color: #daa520;
+}
